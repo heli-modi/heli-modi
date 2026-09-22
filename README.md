@@ -1,17 +1,36 @@
-# Hi, I'm Heli Modi
-**Technical Artist in Training | CS Student | Shader & VFX**
+# Hi, I'm Heli Modi 👋
 
-Specializing in: Stylized Shaders | Real-Time VFX | Anime-Influenced Art  
-Studying: HBSc Computer Science @ Lakehead University (2026–2030)  
-Tools: Blender | Godot | GLSL | Krita | Python  
-Thunder Bay, Ontario, Canada  
+I'm a Computer Science student at Lakehead University in Thunder Bay, Ontario, Canada.
 
-**Current Focus:** Building a Shader/VFX Technical Artist portfolio  
-**Open to:** Technical Artist co-op positions in Canada (May 2028)  
+## About Me
 
-[ArtStation](https://www.artstation.com/helimodi)
+- 🎓 HBSc Computer Science student
+- 💻 Currently learning C, C++, Python, and Data Structures
+- 🧠 Interested in mathematics, logic, and problem-solving
+- 🔐 Exploring Software Engineering and Cybersecurity
+- 📚 Currently completing Harvard CS50x
+- 🌱 Building strong foundations before choosing a specialization
 
----
-🎨 Anime artist turned shader developer  
-🎓 CS student with a mathematics foundation  
-🍁 Based in Thunder Bay, Canada
+## Current Focus
+
+- C and C++
+- Data Structures & Algorithms
+- Computer Architecture
+- Git & GitHub
+- Python
+- Linux fundamentals
+- Software Engineering fundamentals
+
+## Career Interests
+
+I'm currently exploring:
+
+- Software Engineering
+- Cybersecurity
+- Application Security
+- Product Security
+- Security Engineering
+
+## Connect With Me
+
+- LinkedIn: [Heli Modi]www.linkedin.com/in/heli-modi-19a8b63b4
