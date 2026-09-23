@@ -33,4 +33,4 @@ I'm currently exploring:
 
 ## Connect With Me
 
-- LinkedIn: [Heli Modi]www.linkedin.com/in/heli-modi-19a8b63b4
+- LinkedIn: [Heli Modi](https://www.linkedin.com/in/heli-modi-19a8b63b4)
